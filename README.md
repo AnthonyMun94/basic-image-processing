@@ -1,4 +1,4 @@
-# Image-Processing
+# Basic-Image-Processing
 Basic image processing program using SDL2 library with following functions:
 - Flip image horizontally
 - Flip image vertically
